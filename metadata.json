@@ -1,0 +1,6 @@
+{
+  "name": "Nayar Sonora Taqueria",
+  "description": "An authentic Mexican taqueria in Las Vegas, NV, known for handmade tortillas and real Sonora-style flavors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
